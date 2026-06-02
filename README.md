@@ -1,6 +1,6 @@
 <h1 align="center">Hiago Wállacy Marques Silva</h1>
 <p align="center">
-  <i>Médico · Saúde do Trabalhador · Informação & Saúde Digital</i><br>
+  <i>Médico · Saúde do Trabalhador · Atenção Primária · Informação & Saúde Digital</i><br>
   <sub>CEREST Botucatu · PET-Saúde / I&SD</sub>
 </p>
 
@@ -14,15 +14,15 @@
 
 ---
 
-### 👋 Sobre
+###  Sobre
 
-Médico atuando no **CEREST Botucatu** (Centro de Referência em Saúde do Trabalhador), com foco em **vigilância em saúde do trabalhador**, **educação permanente** e construção de **ferramentas digitais livres** para o SUS. Trabalho dentro do **PET-Saúde / Informação e Saúde Digital (I&SD)** — Programa de Educação pelo Trabalho para a Saúde (MS/MEC) — articulando ensino, serviço e comunidade.
+Médico, atuo em Saúde do Trabalhador e na Atenção Primária - no tempo livre construo, com uso extensivo de IA, **ferramentas digitais livres** pensando principalmente em quem está na ponta. Atualmente participo como preceptor do programa **PET-Saúde / Informação e Saúde Digital (I&SD)**.
 
 Toda ferramenta que publico aqui segue três regras inegociáveis:
 
-- 🔒 **Client-side / offline-first** — dados sensíveis de saúde nunca saem do dispositivo do usuário.
-- 🆓 **Gratuita, sem anúncios, sem trackers** — utilidade pública, não produto.
-- 📖 **Código aberto (MIT) e auditável** — base normativa explícita (portarias, tabelas SINAN, CID-10).
+- 🔒 **Client-side / offline-first** — dados nunca saem do dispositivo do usuário.
+- 🆓 **Gratuita, sem anúncios, sem trackers**
+- 📖 **Código aberto (MIT) e auditável** 
 
 ### 🛠️ Projetos
 
@@ -39,10 +39,9 @@ Toda ferramenta que publico aqui segue três regras inegociáveis:
 - Apps offline-first e auditáveis para o serviço público
 - Educação permanente em saúde · PET-Saúde · ensino-serviço-comunidade
 
-### 🤝 Vamos conversar
+### 🤝 Contato
 
 - 📧 **hiagowms@gmail.com**
-- 🏥 CEREST Botucatu (Centro de Referência em Saúde do Trabalhador)
 - 💬 Issues abertas nos repositórios pra sugestões, correções e parcerias
 
-<sub>Se a ferramenta foi útil pra você ou pro serviço, deixa uma ⭐ no repo — ajuda outras equipes a encontrar.</sub>
+<sub>Se a ferramenta foi útil pra você ou pro serviço, deixa uma ⭐ no repositório — ajuda outras equipes a encontrar.</sub>
